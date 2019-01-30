@@ -1,0 +1,22 @@
+/*CSS, primo esercizio*/
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #194607;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: #e2e4c6;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    text-align: center;
+    
+    padding-top: 1px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
